@@ -1,1 +1,2 @@
-chức năng thêm sửa xoá
+chức năng thêm sửa
+1+1=2
